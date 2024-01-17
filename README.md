@@ -79,22 +79,24 @@ Add the hotel name and the country as additional information in the hover messag
 Python
 # Screenshots!!
 
-![1](screenshots/1.png)
-![2](screenshots/2.png)
+![1](outputs/1.png)
+![2](outputs/2.png)
 
-![3](screenshots/3.png)
-![4](screenshots/4.png)
+![3](outputs/3.png)
+![4](outputs/4.png)
 
-![5](screenshots/5.png)
-![6](screenshots/6.png)
+![5](outputs/5.png)
+![6](outputs/6.png)
 
-![7](screenshots/7.png)
-![8](screenshots/8.png)
+![7](outputs/7.png)
+![8](outputs/8.png)
 
-![9](screenshots/9.png)
-![10](screenshots/10.png)
+![9](outputs/9.png)
+![10](outputs/10.png)
 
-![11](screenshots/11.png)
+![11](outputs/11.png)
+
+
 
 **Done!  congratulations**
 
